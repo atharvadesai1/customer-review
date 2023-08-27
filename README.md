@@ -1,2 +1,2 @@
 # customer-review
-Input customer-review system using NLP and naive bayes algorithm and returns valid categorical output.
+Input customer-review through the dataset taken from kaggle, then using NLP and naive bayes algorithm returns valid categorical output.
